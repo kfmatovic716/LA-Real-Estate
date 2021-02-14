@@ -22,12 +22,14 @@ We investigated the following questions as a way of exploratory analysis of the 
 
 2. Based on the boxplot and pie chart illustrations, there were 25 AirBnb rental outliers who were paying greater than or equal to the monthly rental price of $6,275. Pacific Palisades dominates the AirBnb outiler population by 32%. This neighborhood seem very appealing to invest in due to its elevated monthly rent. However, as observed in the AirBnb histogram, the amount of renters drop at approximately $6,000. This implies that occupancy can be low, which directly affects profitability.
 
-3. The comparison of average monthly rent by neighborhood bar graph shows that Venice & Studio City were among the neighborhoods with reasonable average monthly rent from a low $3,342 to a high $4,588. This average monthly rent range is much more affordable by the majority of the population of AirBnb renters and can provide the investor stability in income due to higher probability in occupancy. In addition, since the variation of average monthly price for each rental option for these neighborhoods are low and insignificant (i.e. approximately 4% in Venice), an investor can have the flexibility to rent the property for AirBnb or Regular rental option.
+3. The comparison of average monthly rent by neighborhood bar graph shows that Venice & Studio City were among the neighborhoods with reasonable average monthly rent from a low $3,342 to a high $4,588. This average monthly rent range is much more affordable by the majority of the population of AirBnb renters and can provide the investor stability in income due to higher probability in occupancy. Tourism is one factor that can drive the high occupancy rate in these neighborhoods. Studio City is situated in an area close to movie studios and popular theme park like Universal Studios Hollywood. Venice is located next to popular beach cities in LA like Santa Monica. In addition, since the variation of average monthly price for each rental option for these neighborhoods are low and insignificant (i.e. approximately 4% in Venice), an investor can have the flexibility to rent the property for AirBnb or Regular rental option.
 
 ### Conclusions
 
 1. There is greater potential in earning a better income when investing in AirBnb rentals because a landlord or an investor can charge higher monthly rent.
+
 2. AirBnb rentals in Pacific Palisades will not have a better outcome in terms of earnings due to the high monthly rent and low occupancy rate.
+
 3. The average monthly rental price of Venice and Studio City are desirable because they provide more stable income, higher occupancy rates and flexibility in rental options.
 
 
